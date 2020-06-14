@@ -3,7 +3,7 @@ Hola, les dejo un bonito menú con efecto rolling hover.
 
 ![Menu con efecto hover - Codegenial](https://github.com/codegenial/Menu-Efecto-Hover/blob/master/img/Portada.jpg?raw=true)
 
-> [View code on CodePen](https://codepen.io)
+> [Ver post en instagram](https://instagram.com/codegenial)
 
 ## Community :beers:
 - [Instagram](https://instagram.com/codegenial)
