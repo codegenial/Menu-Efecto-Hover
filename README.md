@@ -1,7 +1,7 @@
 # Un increible menú NavBar con efecto de rolling hover.
 Hola, les dejo un bonito menú con efecto rolling hover.
 
-![Menu con efecto hover - Codegenial](https://github.com/codegenial/Scroll-Creativo/blob/master/img/portada.jpg?raw=true)
+![Menu con efecto hover - Codegenial](https://github.com/codegenial/Menu-Efecto-Hover/blob/master/img/Portada.jpg?raw=true)
 
 > [View code on CodePen](https://codepen.io)
 
